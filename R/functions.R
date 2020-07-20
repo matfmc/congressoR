@@ -1,3 +1,5 @@
+
+
 #' Função que retorna Lista de dados sobre os blocos partidários
 #'
 #' Nas atividades parlamentares, partidos podem se juntar em blocos partidários. Quando associados, os partidos passam a trabalhar como se fossem um "partidão", com um só líder e um mesmo conjunto de vice-líderes.
