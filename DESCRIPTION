@@ -1,0 +1,16 @@
+Package: congressoR
+Title: Conjunto De Funções Para Api's do Congresso
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Matheus",
+           family = "Ferreira",
+           role = c("aut", "cre"),
+           email = "mat.fmc@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Conjunto de funções para conectar com as apis do senado , congresso, e câmara federal.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to
+    pick a license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
