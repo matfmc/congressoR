@@ -12,7 +12,7 @@ License: `use_mit_license()`, `use_gpl3_license()` or friends to
     pick a license
 Encoding: UTF-8
 LazyData: true
-Imports:
+Depends:
     dplyr,
     httr,
     jsonlite
