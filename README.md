@@ -4,7 +4,7 @@ Pacote R de funções para as API'S do congresso.
 Este pacotes traz funções que facilitam a conectividade entre o R e as Api's de dados abertos do Congresso Federal. No momento apenas alguns endpoints da Câmara dos Deputados.
 
 
-`https://dadosabertos.camara.leg.br/swagger/api.html`
+[Dados Abertos da Câmara dos Deputados](https://dadosabertos.camara.leg.br/swagger/api.html)
 
 ## Exemplos :
 
